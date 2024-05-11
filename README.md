@@ -28,10 +28,11 @@ If the model is not performing well, experiment with different architectures, re
 Visualize the training/validation loss and accuracy over epochs to understand the training process. Visualize some misclassified examples to gain insights into potential improvements.
 
 # Program:
-```python
-NAME : ADHITHYARAM D
-REG.NO : 212222230008
-
+```
+NAME : ASHWIN KUMAR S
+REG.NO : 212222240013
+```
+```
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
